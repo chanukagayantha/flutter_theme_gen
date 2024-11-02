@@ -69,7 +69,7 @@ If you want to run the web application locally, follow these steps:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-For questions, feedback, or suggestions, please contact the developer at zeegysolutions.com.
+For questions, feedback, or suggestions, please contact the developer at zeegysolutions.com | zeegysolutions@gmail.com
 
 Happy theming with the Flutter Theme Generator! 🎨🚀
    
